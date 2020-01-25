@@ -28,9 +28,9 @@ monofont: Menlo
 
 <!-- \ref{page:home} -->
 
-Your name is Bo. You're an assigned female at birth (AFAB) non-binary person of Asian descent living in Fort Wayne, Indiana, USA. You live with a roommate who you went to high school with. You've recently started wearing your hair pulled back and have thought about cutting it shorter.
+Your name is Bo. You're a non-binary person of Asian descent. You live with someone you went to high school with in a nondescript two-bedroom house in Fort Wayne, Indiana, USA.
 
-You wake up one day and find it incredibly difficult to the thought of your head that you want to start medically transitioning. You don't really know what that means for you yet. On a lark, you call your doctor to schedule an appointment. And, surprisingly, they happen to have an opening that day.
+You wake up one day and find it incredibly difficult to get the thought of medical transition out of your head. You don't really know what that means for you yet. On a lark, you call your doctor to schedule an appointment. And, surprisingly, they happen to have an opening that day.
 
 <!-- 
 To go to work, go to page \pageref{page:work}.
@@ -47,7 +47,7 @@ To call in sick and go to the doctor, go to page 5.
 
 <!-- \ref{page:work} -->
 
-You toss on jeans and a baggy sweater. You start the coffee machine and sit in silence as the machine works, staring at the formica table you're sitting at in the kitchen. You're late but couldn't give a shit. Your old Toyota struggles to shake off the cold of February in Indiana. 15 minutes later, you pull into the parking lot of the steel mill.
+You toss on jeans and a baggy sweater and shove a toque atop your short hair. You start the coffee machine and sit in silence as the machine works, staring at the formica table in the kitchen. You're late but couldn't give a shit. Your old Toyota struggles to shake off the cold of February in Indiana. 15 minutes later, you pull into the parking lot of the steel mill.
 
 You clock in and feel your boss's eyes bore into you from the office suspended above the shop floor. He comes down several minutes later.
 
@@ -57,7 +57,7 @@ You shrug without looking at him, "Yeah."
 
 He grimaces and walks off without a word more.
 
-You work 8 hours between the forklift, lifting packages, and cleaning shavings.
+You work 8 hours between operating the forklift, lifting packages, and cleaning shavings.
 
 God, fuck this job.
 
@@ -123,7 +123,11 @@ The nurse takes your blood pressure and asks what brought you in. You mumble som
 
 After a moment, Doctor Cismandy opens the door and you shake her hand. She smiles and asks what brought you in today. You mumble something about hormones and gender again.
 
-She remarks that you need to be living in your current gender for [at least a year](https://en.wikipedia.org/wiki/Real-life_experience_(transgender)) before she can prescribe you any medication. You grit your teeth. You leave the doctor's office and pick up your explanation of benefits on the way out. Under "reasons for visit" it states GENDER IDENTITY DISORDER.
+She remarks that you need to be living in your current gender for [at least a year](https://en.wikipedia.org/wiki/Real-life_experience_(transgender)) before she can prescribe you any medication. You grit your teeth. You leave the doctor's office and pick up your explanation of benefits on the way out. 
+
+Under "reasons for visit" it states
+  
+  GENDER IDENTITY DISORDER.
 
 You go home.
 
@@ -239,7 +243,7 @@ Continue on page 16.
 
 <!-- \ref{page:p12} -->
 
-You stumble through the typical reasons you want to get on hormones. Dr. Pineal smiles and offers up with the typical process would be. You try to follow but all you're thinking about is trying to answer the questions correctly. But she mostly doesn't ask any. She orders up several blood labs and tells you to go downstairs for them to do the blood draws.
+You stumble through the typical reasons you want to get on hormones. Dr. Pineal smiles and navigates you through what the typical process would be. You try to follow but all you're thinking about is trying to answer the questions correctly. But she mostly doesn't ask any. She orders up several blood labs and tells you to go downstairs for them to do the blood draws.
 
 At the end of the appointment she says that you will have to come back for a second visit for her to prescribe anything for you. Your stomach sinks and blood rushes to your ears. Everything sounds a bit muffled. You shuffle back to the receptionist who, at the very least, allows you to schedule a much quicker follow-up appointment. 
 
@@ -299,13 +303,13 @@ Administrative violence becomes piqued for trans and gender non-conforming peopl
 
 [^spade2009]: Spade, Dean., 2015. *Normal life: Administrative violence, critical trans politics, and the limits of law*. Duke University Press.
 
-Administrative violence further acts at the level of sex-segregated facilities. Misclassification of trans people, especially trans women, limits their ability to access care facilities, such as homeless shelters and drug rehabilitation center. This often places trans women into men's faciliites, putting them in situations in which they face disproportionate levels of violence from both residents and staff. Trans people also encounter administrative violence at the level of health care, where a misclassification based on one's sex assigned at birth and/or the diagnosis of being trans at all can deny trans people the care for common gender-affirming medications and procedures.
+Administrative violence further acts at the level of sex-segregated facilities. Misclassification of trans people, especially trans women, limits their ability to access care facilities, such as homeless shelters and drug rehabilitation center. This often places trans women into men's facilities, putting them in situations in which they face disproportionate levels of violence from both residents and staff. Trans people also encounter administrative violence at the level of health care, where a misclassification based on one's sex assigned at birth and/or the diagnosis of being trans at all can deny trans people the care for common gender-affirming medications and procedures.
 
 \subsection*{On Surveillance}
 
-The student of a computer science professor interested in training a facial recognition model came across a series of videos in which trans YouTubes documented their transition on the platform. As an "edge case" in the machine learning task, the gathered hundreds of these videos. The motivation for this project was to understand "[w]hat kind of harm can a terrorist do if they understand that taking this hormone can increase their chances of crossing over into a border that’s protected by face recognition?" [^vincent2017]
+The student of a computer science professor interested in training a facial recognition model came across a series of videos in which trans YouTubers documented their transition on the platform. As an "edge case" in the machine learning task, they gathered these videos en masse. The motivation for this project was to understand "[w]hat kind of harm can a terrorist do if they understand that taking this hormone can increase their chances of crossing over into a border that’s protected by face recognition." [^vincent2017]
 
-The processes of administrative violence should not be characterized as simply a category error in which correct classifications can be updated by administrative remedy. It is not a matter of ensuring the identity documents are harmonized across bureaucracies and organizations. Trans bodies and lives are continually held in suspicion; the professor in question framed the transition videos -- which are often tools for self-expression and motivation for others -- to be a vector for potential terrorist and cross-border subversion.  The suspicion of the trans body becomes especially piqued for undocumented trans people and trans people of Arab, Iranian, and central Asian descent. 
+The processes of administrative violence should not be characterized as simply a category error in which correct classifications can be updated by administrative remedy. It is not a matter of ensuring the identity documents are harmonized across bureaucracies and organizations. Trans bodies and lives are continually held in suspicion; the professor in question framed the transition videos -- which are often tools for self-expression and motivation for others -- to be a vector for potential terrorist and cross-border subversion. The suspicion of the trans body becomes especially piqued for undocumented trans people and trans people of Arab, Iranian, and central Asian descent. 
 
 Queer surveillance cannot be overlooked in the kinds of politics which aim to amerliorate administrative violence. As Dean Spade continues in *Normal Life*:
 
@@ -321,7 +325,7 @@ Considering the harms caused by misclassification is a path that has been well-t
 
 The problem itself isn't about fairness, but instead a state that rationalizes individuals in such a way to make them legible for surveillance, overpolicing, medical gatekeeping, and denial of housing and employment. James C. Scott discusses legibility, e.g. the way that states and governments make sense of the natural world and peoples within its borders[^scott1998].
 
-The state itself operates in such a way the collects data on individuals and uses automated tools which aren't structured for the benefit of the most marginalized. A set of automated and data systems which worked for people would look much different. It's not a coincidence that the character in this zine lives in Indiana, where Virginia Eubanks documents the failure of a welfare system aimed at providing medical and welfare benefits to its most destitute[^eubanks2018]. The Indiana welfare system failed to address citizen concerns and offer reasonable recourse in the cases of dropped medical benefits. What would the fixing of data classification schemas look in such a state system which supported the most marginalized? Eubanks argues that
+The state itself operates in such a way the collects data on individuals and uses automated tools which aren't structured for the benefit of the most marginalized. A set of automated and data systems which worked for people would look much different. It's not a coincidence that the character in this zine lives in Indiana, where Virginia Eubanks documents the failure of a welfare system aimed at providing medical and welfare benefits to its most destitute[^eubanks2018]. The Indiana welfare system failed to address citizen concerns and offer reasonable recourse in the cases of dropped medical benefits. What would the fixing of data classification schemas look like in such a state system which supported the most marginalized? Eubanks argues that
 
 > [i]n a system dedicated to supporting poor and working-class people's self-determination, such diligence would guarantee that they attain all the benefits they are entitled to by law. In that context, integrated data and modernized administration would not necessarily result in bad outcomes for poor communities. But automated decision-making in our current welfare system acts a lot like older, atavistic forms of punishment and containment. It filters and diverts. It is a gatekeeper, not a facilitator. [pp. 81-82]
 
@@ -333,7 +337,7 @@ The state itself operates in such a way the collects data on individuals and use
 
 [^scott1998]: Scott, James C., 1998. Seeing like a state: How certain schemes to improve the human condition have failed. Yale University Press.
 
-A critical politics of algorithms which addresses the harms caused by administrative violence sees misclassification as symptomatic of larger structures and systems of domination. 
+A critical politics of algorithms which addresses the harms caused by administrative violence sees misclassification as symptomatic of larger structures and systems of domination.
 
 \clearpage
 
