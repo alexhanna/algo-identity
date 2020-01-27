@@ -20,6 +20,12 @@ monofont: Menlo
 
 ![](premiere-form.png)
 
+\clearpage
+
+\begin{center}
+this page left intentionally blank
+\end{center}
+
 \clearpage 
 
 > *Trigger warnings: discussions of job precarity, medical establishment, medication and needles, blood, and gender dysphoria.*
@@ -39,9 +45,9 @@ To call in sick and go to the doctor, go to page \pageref{page:doctor}.
 
 -->
 
-To go to work, go to page 4.
+To go to work, go to page 5.
 
-To call in sick and go to the doctor, go to page 5.
+To call in sick and go to the doctor, go to page 6.
 
 \clearpage
 
@@ -63,7 +69,7 @@ God, fuck this job.
 
 <!-- To go back home and start a new day, go to page \ref{page:home}. -->
 
-To go back home and start a new day, go to page 3.
+To go back home and start a new day, go to page 4.
 
 \clearpage
 
@@ -79,11 +85,11 @@ To mark Female, go to page [3](#p3).
 
 To leave it blank, go to page [4](#p4). -->
 
-To mark Male, go to page 6.
+To mark Male, go to page 7.
 
-To mark Female, go to page 7.
+To mark Female, go to page 8.
 
-To leave it blank, go to page 8.
+To leave it blank, go to page 9.
 
 \clearpage
 
@@ -93,7 +99,7 @@ You check the Male box, even though it makes you deeply uncomfortable. You grit 
 
 <!-- After five more minutes, the nurse calls you into the exam room. Go to page [5](#p5). -->
 
-After five more minutes, the nurse calls you into the exam room. Go to page 9.
+After five more minutes, the nurse calls you into the exam room. Go to page 10.
 
 \clearpage
 
@@ -103,7 +109,7 @@ You sigh and check off the gender you had been assigned at birth. You grit your 
 
 <!-- After five more minutes, the nurse calls you into the exam room. Go to page [5](#p5). -->
 
-After five more minutes, the nurse calls you into the exam room. Go to page 9.
+After five more minutes, the nurse calls you into the exam room. Go to page 10.
 
 \clearpage
 
@@ -113,7 +119,7 @@ You look from side to side and then elect to leave the sex box blank. You grit y
 
 <!-- After five more minutes, the nurse calls you into the exam room. Go to page [5](#p5). -->
 
-After five more minutes, the nurse calls you into the exam room. Go to page 9.
+After five more minutes, the nurse calls you into the exam room. Go to page 10.
 
 \clearpage
 
@@ -135,7 +141,7 @@ You go home.
 
 <!-- To go online, go to page [6](#p6). -->
 
-To go online, go to page 10.
+To go online, go to page 11.
 
 \clearpage
 
@@ -151,9 +157,9 @@ To go the endocrinologist, go to page [8](#p8).
 To go the online pharmacy site, go to page [7](#p7). 
 -->
 
-To go the endocrinologist, go to page 12.
+To go the endocrinologist, go to page 13.
 
-To go the online pharmacy site, go to page 11.
+To go the online pharmacy site, go to page 12.
 
 \clearpage
 
@@ -165,7 +171,7 @@ You open a Private Browsing window in your web browser and click on the bookmark
 
 <!-- To click <code>Submit</code>, go to page [9](#p9). -->
 
-To click <code>Submit</code>, go to page 13.
+To click <code>Submit</code>, go to page 14.
 
 \clearpage
 
@@ -183,9 +189,9 @@ To say "Yes", go to page [11](#p11).
 To decline and order from the online pharmacy, go to page [7]. 
 -->
 
-To say "Yes", go to page 15.
+To say "Yes", go to page 16.
 
-To decline and order from the online pharmacy, go to page 11.
+To decline and order from the online pharmacy, go to page 12.
 
 \clearpage
 
@@ -199,7 +205,7 @@ You take it inside your apartment and quickly cut through the gobs of tape. You 
 
 <!-- Continue to page [10](#p10). -->
 
-Continue to page 14.
+Continue to page 15.
 
 \clearpage
 
@@ -217,9 +223,9 @@ A few hours later you start to feel nauseous. You spend the rest of the evening 
 
 Your online community says it takes a few weeks to see any masculinizing effect, but you're not sure if you want to continue risking it with your DIY hormone replacement therapy.
 
-To continue taking your online meds, go to page 18.
+To continue taking your online meds, go to page 19.
 
-To book an appointment with the endrocrinologist, go to page 12.
+To book an appointment with the endrocrinologist, go to page 13.
 
 <!-- Go to page \pageref{page:p}. -->
 
@@ -235,7 +241,7 @@ There's a knock at the door and then someone enters. Dr. Pineal comes in with a 
 
 <!-- Continue on page [12](#p12). -->
 
-Continue on page 16.
+Continue on page 17.
 
 \clearpage
 
@@ -251,9 +257,9 @@ On the drive back home, you wonder if you should just try that online pharmacy i
 
 To wait for your appointment, go to page [13](#p13). -->
 
-To go the online pharmacy site, go to page 11.
+To go the online pharmacy site, go to page 12.
 
-To wait for your appointment, go to page 17.
+To wait for your appointment, go to page 18.
 
 \clearpage
 
@@ -279,7 +285,7 @@ Well, shit.
 
 <!-- Go to page \ref{page:about}. -->
 
-Go to page 19.
+Go to page 20.
 
 \clearpage
 
@@ -293,7 +299,7 @@ You've started to see some more hair on your face. Your skin gets more oily. But
 
 <!-- Go to page \ref{page:about}. -->
 
-Go to page 19.
+Go to page 20.
 
 \clearpage
 
@@ -346,6 +352,11 @@ What would the fixing of data classification schemas look like in such a state s
 [^scott1998]: Scott, James C., 1998. Seeing like a state: How certain schemes to improve the human condition have failed. Yale University Press.
 
 A set of automated and data systems which worked for people would look much different. A critical politics of algorithms which addresses the harms caused by administrative violence sees misclassification as symptomatic of larger structures of inequality.
+
+\clearpage
+
+\vspace{2em}
+![](belgium-id.jpg)
 
 \clearpage
 
