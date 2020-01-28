@@ -329,7 +329,7 @@ The elimination of the surveillance of queer bodies cannot be overlooked in the 
 
 > a critical understanding of surveillance allows us to avoid making simplistic demands to have these policies "fixed" so that trans people can be more "accurately" classified. Rather, this analysis allows for the emergence of politics and resistance strategies that understand the expansion of identity verification as a key facet of racialized and gendered maldistribution of security and vulnerability. [Spade 2015, pp. 87]
 
-To put it simply, fixing identity documents will typically only benefit those trans people who are already well-served by other administrative structures -- typically those who are white, wealthy,a nd have access to medical procedures which comport them with an ideal trans subject.
+To put it simply, fixing identity documents will typically only benefit those trans people who are already well-served by other administrative structures -- typically those who are white, wealthy, and have access to medical procedures which comport them with an ideal trans subject.
 
 [^vincent2017]: Vincent, James. 2017. Transgender YouTubers had their videos grabbed to train facial recognition software. *The Verge*. \url{https://www.theverge.com/2017/8/22/16180080/transgender-youtubers-ai-facial-recognition-dataset}
 
