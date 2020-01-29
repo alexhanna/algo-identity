@@ -6,3 +6,5 @@ Our aim with this workshop is to provide a venue within which the FAT* community
 ## Materials
 
 [Twitter is walking into a minefield with its political ads ban](https://www.vox.com/recode/2019/11/15/20966908/twitter-political-ad-ban-policies-issue-ads-jack-dorsey)
+
+[CelebA info sheet](https://drive.google.com/file/d/1LENpvNQuLcZ7yLbbTWjOT0tODL1qDzmh/view?usp=sharing)
