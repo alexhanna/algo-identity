@@ -1,5 +1,5 @@
 ---
-title: "CHOOSE YOUR OWN ADMNISTRATIVE VIOLENCE ADVENTURE"
+title: "CHOOSE YOUR OWN ADMINISTRATIVE VIOLENCE ADVENTURE"
 author: "Alex Hanna"
 header-includes:
   - \usepackage{booktabs}
@@ -313,7 +313,7 @@ This zine is about how practices and routines which are typically considered ban
 
 Administrative violence becomes piqued for trans and gender non-conforming people and can be especially harmful to trans people of color. This typically occurs at the level of identity documents, sex-segregated facilities, and health care access. Rules for changing identity documents have inconsistent rules across municipalities, states, and countries. Some require a doctor's note, while some require surgery or certification from another authoritative body. This results in a web of confusing twists and turns, looping back to other agencies with no uniform method of updating documents. Dean Spade outlines an example of this kind of morass[^spade2009]:
 
-> ...one person born in New York and living in New York might have a birth certificate she cannot change from "M" to "F" because she has not had gential surgey: a driver's license that correctly reflects "F" because she got a doctor's letter; Social Security records that say "M" because she cannot produce evidience of surgery; a name change order that shows her new feminine name; and a Medicaid card that reads "F" because the agency had no official policy and the clerk felt the name change order and driver's license were sufficient. [pp. 79]
+> ...one person born in New York and living in New York might have a birth certificate she cannot change from "M" to "F" because she has not had gential surgery: a driver's license that correctly reflects "F" because she got a doctor's letter; Social Security records that say "M" because she cannot produce evidience of surgery; a name change order that shows her new feminine name; and a Medicaid card that reads "F" because the agency had no official policy and the clerk felt the name change order and driver's license were sufficient. [pp. 79]
 
 [^spade2009]: Spade, Dean., 2015. *Normal life: Administrative violence, critical trans politics, and the limits of law*. Duke University Press.
 
