@@ -75,7 +75,7 @@ To go back home and start a new day, go to page 4.
 
 <!-- \ref{page:doctor} -->
 
-You sit down to fill in the intake form at the clinic not far from your apartment. There's an aquariaum inset into the wall. The wallpaper is that pastel pink (is this mauve?) that was popular in the 70's. There's two other people there, including a small child who looks like your niece. You write down a name you abhor and then think about what to do about the "sex" box.
+You sit down to fill in the intake form at the clinic not far from your apartment. There's an aquarium inset into the wall. The wallpaper is that pastel pink (is this mauve?) that was popular in the 70's. There's two other people there, including a small child who looks like your niece. You write down a name you abhor and then think about what to do about the "sex" box.
 
     [ ] Male [ ] Female
 
