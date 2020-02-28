@@ -11,3 +11,17 @@ Our aim with this workshop is to provide a venue within which the FAT* community
 [Twitter is walking into a minefield with its political ads ban](https://www.vox.com/recode/2019/11/15/20966908/twitter-political-ad-ban-policies-issue-ads-jack-dorsey)
 
 [Classification analytic](https://drive.google.com/file/d/10VCbZUuOcxNYZN27pQPH4LfJDU6lNAFU/view?usp=sharing)
+
+## Citation
+
+If you use these materials in your courses or workshops, we'd love to know! Please cite the workshop as follows:
+
+```
+@inproceedings{baker2020algorithmically,
+  title={Algorithmically encoded identities: reframing human classification},
+  author={Baker, Dylan and Hanna, Alex and Denton, Emily},
+  booktitle={Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency},
+  pages={681--681},
+  year={2020}
+}
+```
