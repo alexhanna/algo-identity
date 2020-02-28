@@ -10,7 +10,7 @@ Our aim with this workshop is to provide a venue within which the FAT* community
 
 [Torquing the Individual](https://drive.google.com/drive/u/0/folders/1YrPWLm8nVYks2aKy90PdsuO4gploECqH)
 
-[Choose Your Own Administrative Violence Adventure](choose-your-own-administrative-violence-adventure/full.pdf)
+[Choose Your Own Administrative Violence Adventure](https://github.com/alexhanna/algo-identity/blob/master/choose-your-own-administrative-violence-adventure/full.pdf)
 
 [Classification analytic](https://drive.google.com/file/d/10VCbZUuOcxNYZN27pQPH4LfJDU6lNAFU/view?usp=sharing)
 
