@@ -8,9 +8,11 @@ Our aim with this workshop is to provide a venue within which the FAT* community
 
 [Terminology cheat sheet](https://github.com/alexhanna/algo-identity/blob/master/Cheat_sheet.pdf)
 
-[Twitter is walking into a minefield with its political ads ban](https://www.vox.com/recode/2019/11/15/20966908/twitter-political-ad-ban-policies-issue-ads-jack-dorsey)
-
 [Classification analytic](https://drive.google.com/file/d/10VCbZUuOcxNYZN27pQPH4LfJDU6lNAFU/view?usp=sharing)
+
+[Torquing the Individual](https://drive.google.com/drive/u/0/folders/1YrPWLm8nVYks2aKy90PdsuO4gploECqH)
+
+[Twitter is walking into a minefield with its political ads ban](https://www.vox.com/recode/2019/11/15/20966908/twitter-political-ad-ban-policies-issue-ads-jack-dorsey)
 
 ## Citation
 
