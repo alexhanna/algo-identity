@@ -10,7 +10,7 @@ Our aim with this workshop is to provide a venue within which the FAT* community
 
 [Torquing the Individual](https://docs.google.com/document/d/1vWSUcXFgJiYwXjO-dyUTF4DkjQyN7zyyC0z-roibnCY/edit#heading=h.vgwa9cq9jsyh)
 
-[Choose Your Own Administrative Violence Adventure](alex-hanna.com/choose-your-own-administrative-violence-adventure.html) 
+[Choose Your Own Administrative Violence Adventure](https://alex-hanna.com/choose-your-own-administrative-violence-adventure.html) 
 
 [Classification analytic](https://drive.google.com/file/d/10VCbZUuOcxNYZN27pQPH4LfJDU6lNAFU/view?usp=sharing)
 
