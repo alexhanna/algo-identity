@@ -8,11 +8,20 @@ Our aim with this workshop is to provide a venue within which the FAT* community
 
 [Terminology cheat sheet](https://github.com/alexhanna/algo-identity/blob/master/Cheat_sheet.pdf)
 
-[Torquing the Individual](https://docs.google.com/document/d/1vWSUcXFgJiYwXjO-dyUTF4DkjQyN7zyyC0z-roibnCY/edit#heading=h.vgwa9cq9jsyh)
+[Torquing the Individual](https://docs.google.com/document/d/1vWSUcXFgJiYwXjO-dyUTF4DkjQyN7zyyC0z-roibnCY/edit)
 
 [Choose Your Own Administrative Violence Adventure](https://alex-hanna.com/choose-your-own-administrative-violence-adventure.html) 
 
 [Classification analytic](https://drive.google.com/file/d/10VCbZUuOcxNYZN27pQPH4LfJDU6lNAFU/view?usp=sharing)
+
+## Resources
+
+[What Census Calls Us](https://www.pewresearch.org/interactives/what-census-calls-us/)
+
+The GenIUSS Group. (2014). [Best practices for Asking Questions to Identify transgender and Other Gender minority respondents on population-based Surveys.(https://williamsinstitute.law.ucla.edu/wp-content/uploads/Survey-Measures-Trans-GenIUSS-Sep-2014.pdf). J.L. Herman (ed.). Los Angeles, CA: the Williams Institute.
+
+Magliozzi et al. (2016). [Scaling Up: Representing Gender Diversity in Survey Research](https://journals.sagepub.com/doi/pdf/10.1177/2378023116664352). *Socius*.
+
 
 ## Citation
 
