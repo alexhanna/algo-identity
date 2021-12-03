@@ -12,7 +12,7 @@ Our aim with this workshop is to provide a venue within which the FAT* community
 
 [Choose Your Own Administrative Violence Adventure](https://alex-hanna.com/choose-your-own-administrative-violence-adventure.html) 
 
-[Classification analytic](https://drive.google.com/file/d/10VCbZUuOcxNYZN27pQPH4LfJDU6lNAFU/view?usp=sharing)
+[Classification analytic](https://bit.ly/classification-analytic)
 
 ## Resources
 
